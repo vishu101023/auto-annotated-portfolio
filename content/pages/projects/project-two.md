@@ -5,9 +5,11 @@ colors: colors-a
 date: '2021-12-20'
 client: Nautilus Biotechnology
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Led full redesign of critical valve and pump trays to significantly improve
+  fluid delivery accuracy, reliability, and prevent leak damage.Designed and
+  validated a specialized chiller module capable of holding precise temperature
+  (5°C) for 120 hours with zero condensate.Integrated advanced simulations and
+  hands-on prototyping, resulting in reduced downtime by 20%.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
