@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: >-
       Mechanical Engineer | Expert in Electromechanical Systems and
       Manufacturing Optimization
