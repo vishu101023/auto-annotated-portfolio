@@ -12,7 +12,6 @@ description: >-
   hands-on prototyping, resulting in reduced downtime by 20%.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
