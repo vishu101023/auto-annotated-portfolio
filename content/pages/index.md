@@ -16,7 +16,24 @@ sections:
     title: >-
       Mechanical Engineer | Expert in Electromechanical Systems and
       Manufacturing Optimization
-    subtitle: ''
+    subtitle: >-
+      Based on your resume, here's a clear and professional "About Me" section
+      to kickstart your online mechanical engineering portfolio:---About MeHi,
+      I'm Vishal Gawli, a Mechanical Engineer based in San Jose, CA,
+      specializing in designing and manufacturing production-grade
+      electromechanical systems. With expertise in DFM, GD&T, and Six Sigma
+      methodologies, I've achieved a 98% yield in high-volume production and
+      reduced overall costs by 25% through tooling optimization and strategic
+      supplier collaboration.I hold a Master of Science in Mechanical
+      Engineering from the University of Wisconsin–Madison, with a focus on
+      advanced CAD modeling and design simulation. Currently at Nautilus
+      Biotechnology, I lead innovative design projects, enhancing reliability
+      and performance through advanced simulations, hands-on prototyping, and
+      detailed troubleshooting.My passion lies in developing integrated
+      electromechanical systems, optimizing complex manufacturing processes, and
+      delivering impactful engineering solutions.---Please let me know if you'd
+      like to adjust any part of this, or confirm if this looks good. After your
+      approval, we'll move on to updating your website step-by-step!
     styles:
       self:
         height: auto
